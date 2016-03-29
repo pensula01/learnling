@@ -1,4 +1,3 @@
 # learnling
 learn
 thanks!
-oh!
